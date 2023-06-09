@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir chmod 777 /temp/my_first_directory
+mkdir -m chmod 777 /temp/my_first_directory/
